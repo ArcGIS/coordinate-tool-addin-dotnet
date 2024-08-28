@@ -1,5 +1,9 @@
 # coordinate-conversion-addin-dotnet
-___Beginning at ArcGIS Pro 2.6 this functionality is installed with ArcGIS Pro. This repository will only be updated with critical fixes to ArcGIS Desktop.___
+
+## *This repository is no longer maintained.* 
+
+___Beginning at ArcGIS Pro 2.6 this functionality is installed with ArcGIS Pro.___
+
 
 Coordinate Conversion window in ArcGIS Pro
 Coordinate Conversion allows analysts to input and quickly convert coordinates between several common formats, including Universal Transverse Mercator (UTM) and Military Grid Reference System (MGRS). 
